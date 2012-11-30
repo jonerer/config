@@ -1,0 +1,5 @@
+alias gs="git status"
+alias gpl="git pull"
+alias gps="git push"
+alias gcm="git commit -am"
+alias gd="git diff --color"
